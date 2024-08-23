@@ -1,0 +1,107 @@
+.imgcc{
+    width:300px;
+    border-radius: 10px;
+
+}
+
+
+.imgc{
+    position: relative;
+
+}
+
+
+
+.bod
+{
+    border:1px solid rgb(29, 28, 28);
+    width:300px;
+    padding:10px;
+    margin:50px auto;
+    border-radius: 10px;
+    font-family: sans-serif;
+    
+}
+
+.footer
+{
+    
+    border-top: 1px solid rgb(29, 28, 28);
+    
+}
+
+.flex
+{
+    border-top: 1px solid rgb(29, 28, 28);
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    gap: 8px;
+}
+
+.max1
+{
+    width:70px;
+    height:30px;
+    border-radius: 4px;
+}
+
+
+    
+    
+
+.off
+{
+  border:none ;
+  background-color: rgb(0, 0, 230);
+  color:white;
+  font-family: Arial;
+  width:80px;
+  font-size:9px;
+  border-radius: 2px;
+  position: absolute;
+  bottom:680px;
+  transition: .5s;
+}
+
+h2{
+    transition: .5s;
+}
+.h2:hover{
+    background-color:rgb(44, 42, 42);
+    color:white;
+    border-radius: 4px;
+    
+}
+
+
+.pro{
+    position: absolute;
+    bottom:800px;
+    margin-left:10px;
+    
+  
+}
+
+.pp
+{
+    color: rgb(41, 40, 40);
+    background-color:rgb(75, 71, 71);
+    width:50px;
+    height:14px;
+    padding:5px 5px 5px 5px;
+    border-radius: 3px;
+    text-align: center;
+    font-size:10px;
+    transition: .3s;
+}
+.p1
+{
+    font-size: small;
+}
+
+
+
+.pp:hover{
+    background-color:transparent;
+}
